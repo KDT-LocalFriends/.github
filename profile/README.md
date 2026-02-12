@@ -1,4 +1,4 @@
-[![demo](https://github.com/user-attachments/assets/a343b66f-9266-4646-9aca-d1578b2e6bb6)](https://github.com/user-attachments/assets/b258d76e-50fa-4b8e-bf2b-6f20af327e6a)
+<img width="1126" height="638" alt="Image" src="https://github.com/user-attachments/assets/aaf1bb66-dc3b-4c37-8ac6-7203d5357914" />
 
 ## 📜 서비스 소개
 
@@ -81,12 +81,10 @@
   <tr>
     <td><img src="https://github.com/user-attachments/assets/ec19bbaf-90d1-4dda-8ff2-f4a123dad2c4" width="250" /></td>
     <td><img src="https://github.com/user-attachments/assets/bf412143-9973-49fb-aa12-cb957d847d35" width="250" /></td>
-  </tr>
-  <tr>
     <td><img src="https://github.com/user-attachments/assets/028d1e45-ca16-4674-80bc-f4cb17edc02f" width="250" /></td>
     <td><img src="https://github.com/user-attachments/assets/449438a1-2c3d-4356-8763-0effd5406a48" width="250" /></td>
   </tr>
 </table>
 
-
+[![demo](https://github.com/user-attachments/assets/a343b66f-9266-4646-9aca-d1578b2e6bb6)](https://github.com/user-attachments/assets/b258d76e-50fa-4b8e-bf2b-6f20af327e6a)
 
