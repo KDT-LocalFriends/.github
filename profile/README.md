@@ -37,7 +37,7 @@
 **Backend**
 
 - Java, Spring Boot, JPA, Spring Security
-- JWT, Redis, H2 Database
+- JWT, Redis, PostgreSQL
 
 **AI/Chat Server**
 
@@ -46,7 +46,7 @@
 
 **Infrastructure**
 
-- AWS EC2, Route 53
+- AWS
 - Swagger, Git
 
 ## 💻 개발 내용
