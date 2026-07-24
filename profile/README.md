@@ -102,7 +102,7 @@ Spring Boot ──────► FastAPI ──────► OpenAI API
 
 ## ERD
 
-``mermaid
+```mermaid
 erDiagram
     users ||--|| characters : "1:1"
     users ||--o{ product_exchanges : "1:N"
@@ -334,23 +334,6 @@ uvicorn main:app --reload --port 8000
  
 ---
 
-### 환경 변수
-
-```env
-DB_URL=
-DB_USERNAME=
-DB_PASSWORD=
-
-REDIS_HOST=
-REDIS_PORT=
-
-JWT_SECRET=
-
-OPENAI_API_KEY=
-GIMHAE_OPENAPI_KEY=
-
-RECOMMEND_SERVER_URL=
-```
 
 ### 실행
 
